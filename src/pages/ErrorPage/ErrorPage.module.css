@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container h1,h2{
+    color: var(--text);
+}
+.container h1{
+    font-size: 3rem;
+    opacity: 0.8;
+}
+.container .link{
+    color: var(--accent);
+    font-size: 1.2rem;
+}
