@@ -21,7 +21,7 @@ A shopping cart application built with React for The Odin Project.
 ```bash
 # Clone and install
 git clone https://github.com/mamahany/shopping-cart
-cd shopping-cart-react
+cd shopping-cart
 npm install
 
 # Run development server
